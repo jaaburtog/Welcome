@@ -17,6 +17,8 @@ public class SecondActivity extends AppCompatActivity {
     Button closeButton;
     AlertDialog.Builder builder;
 
+    // Proof
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
